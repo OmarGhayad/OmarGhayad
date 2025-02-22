@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to the areaV 🚀👽</p>
+<p align="left">Welcome to the AREAV 🚀👽</p>
 
 ###
 
