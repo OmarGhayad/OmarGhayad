@@ -10,13 +10,7 @@
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp2YThjcXE4b2FoeXlta2VkdjYxcjlrYmw1b3Y1ZW5tajRyYjZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9WQLSrsQKH3uBbiXq/giphy.gif"  />
 </div>
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/OmarGhayad/count.svg?"  />
-</div>
 
 ###
 
